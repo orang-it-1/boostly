@@ -1,0 +1,7 @@
+{
+  "name": "Boostly",
+  "description": "Follow. Earn. Grow. Platform tukar follow, dapatkan koin, dan kembangkan akun sosial mediamu secara autentik.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
